@@ -24,6 +24,9 @@
 | 10 | AI Features & AI Employees | `10_AI-Features.md` | Sales & Marketing |
 | 11 | Reporting & Analytics | `11_Reporting-Analytics.md` | Managers |
 | 12 | Hands-on Exercises & Scenarios | `12_Hands-On-Exercises.md` | Everyone |
+| 13 | Social Media Management & Social Planner | `13_Social-Media-Management.md` | Marketing |
+| 14 | Ad Manager: Facebook & Google Ads | `14_Ad-Manager.md` | Marketing |
+| 15 | Memberships, Courses & Communities | `15_Memberships-Courses.md` | Sales & Marketing |
 
 ---
 
@@ -39,6 +42,9 @@ Upon completing this training program, participants will be able to:
 6. **Configure** Workflows to automate Sales & Marketing processes
 7. **Leverage** AI Features to maximize team productivity
 8. **Read and analyze** reports to make data-driven decisions
+9. **Manage** social media content and scheduling across all platforms
+10. **Run and measure** Facebook & Google Ads with full ROI tracking
+11. **Build** online courses, membership sites, and branded communities
 
 ---
 
@@ -51,6 +57,7 @@ Upon completing this training program, participants will be able to:
 | **Day 3** | Module 5: Funnels & Landing Pages | Module 6: Email & SMS Marketing |
 | **Day 4** | Module 7 + 8: Calendar & Reputation | Module 9: Advanced Workflows |
 | **Day 5** | Module 10 + 11: AI & Reporting | Module 12: Hands-on Exercises |
+| **Day 6** | Module 13 + 14: Social & Ads | Module 15: Memberships & Communities |
 
 ---
 
