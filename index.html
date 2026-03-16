@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>GHL Training Documentation</title>
@@ -11,17 +12,21 @@
     :root {
       --theme-color: #175ddc;
     }
+
     .app-name-link img {
       width: 150px;
     }
+
     /* Hide bullet points to make the menu look modern */
     .sidebar ul {
       list-style-type: none !important;
       padding-left: 15px;
     }
-    .sidebar > .sidebar-nav > ul {
+
+    .sidebar>.sidebar-nav>ul {
       padding-left: 0;
     }
+
     .sidebar-nav li strong {
       display: block;
       margin-top: 15px;
@@ -29,8 +34,13 @@
       font-size: 1.1em;
       color: #333;
     }
+
+    .app-sub-sidebar li:before {
+      display: none;
+    }
   </style>
 </head>
+
 <body>
   <div id="app">Loading...</div>
   <script>
@@ -38,12 +48,12 @@
       name: 'GHL Training',
       repo: '',
       loadSidebar: true,
-      subMaxLevel: 2,
+      subMaxLevel: 1,
       coverpage: true,
       themeColor: '#175ddc',
       auto2top: true,
       search: {
-        maxAge: 86400000, 
+        maxAge: 86400000,
         paths: 'auto',
         placeholder: 'Search...',
         noData: 'No Results found',
@@ -58,4 +68,5 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/index.min.js"></script>
 </body>
+
 </html>
