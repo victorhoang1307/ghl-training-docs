@@ -20,7 +20,11 @@ Most teams juggle multiple tools — and pay for each one separately:
 | Funnel Builder (ClickFunnels) | $97 – $297 | ✅ Funnel Builder |
 | Scheduling (Calendly) | $10 – $15 | ✅ Calendars |
 | Reviews (BirdEye) | $300+ | ✅ Reputation Mgmt |
-| **Total** | **$500 – $1,200+** | **$97 – $497** |
+| Social Media (Hootsuite/Buffer) | $50 – $200 | ✅ Social Planner |
+| Ad Management (AdEspresso) | $50 – $500 | ✅ Ad Manager |
+| Courses (Kajabi/Teachable) | $69 – $299 | ✅ Course Builder |
+| Community (Skool/Circle) | $33 – $99 | ✅ Communities |
+| **Total** | **$700 – $2,300+** | **$97 – $497** |
 
 > 💡 **Key Benefit:** One login, one bill, and all your data flows seamlessly between modules — no more copy-pasting between apps.
 
@@ -29,29 +33,39 @@ Most teams juggle multiple tools — and pay for each one separately:
 ## 1.2 Core Feature Map
 
 ```
-┌──────────────────────────────────────────────────┐
-│                   GoHighLevel                     │
-│                                                   │
-│  ┌──────────┐  ┌──────────┐  ┌───────────────┐   │
-│  │   CRM    │  │ Pipeline │  │   Workflows   │   │
-│  │ Contacts │  │  Sales   │  │  Automation   │   │
-│  └──────────┘  └──────────┘  └───────────────┘   │
-│                                                   │
-│  ┌──────────┐  ┌──────────┐  ┌───────────────┐   │
-│  │  Email   │  │   SMS    │  │   Funnels &   │   │
-│  │Marketing │  │Campaigns │  │ Landing Pages │   │
-│  └──────────┘  └──────────┘  └───────────────┘   │
-│                                                   │
-│  ┌──────────┐  ┌──────────┐  ┌───────────────┐   │
-│  │ Calendar │  │Reputation│  │ AI Employees  │   │
-│  │ Booking  │  │Management│  │ Voice & Chat  │   │
-│  └──────────┘  └──────────┘  └───────────────┘   │
-│                                                   │
-│  ┌──────────┐  ┌──────────┐  ┌───────────────┐   │
-│  │ Unified  │  │ Reports  │  │   Payments    │   │
-│  │  Inbox   │  │Analytics │  │ Stripe/PayPal │   │
-│  └──────────┘  └──────────┘  └───────────────┘   │
-└──────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────┐
+│                    GoHighLevel                         │
+│                                                        │
+│  ┌──────────┐  ┌──────────┐  ┌───────────────┐        │
+│  │   CRM    │  │ Pipeline │  │   Workflows   │        │
+│  │ Contacts │  │  Sales   │  │  Automation   │        │
+│  └──────────┘  └──────────┘  └───────────────┘        │
+│                                                        │
+│  ┌──────────┐  ┌──────────┐  ┌───────────────┐        │
+│  │  Email   │  │   SMS    │  │   Funnels &   │        │
+│  │Marketing │  │Campaigns │  │ Landing Pages │        │
+│  └──────────┘  └──────────┘  └───────────────┘        │
+│                                                        │
+│  ┌──────────┐  ┌──────────┐  ┌───────────────┐        │
+│  │ Calendar │  │Reputation│  │ AI Employees  │        │
+│  │ Booking  │  │Management│  │ Voice & Chat  │        │
+│  └──────────┘  └──────────┘  └───────────────┘        │
+│                                                        │
+│  ┌──────────┐  ┌──────────┐  ┌───────────────┐        │
+│  │ Social   │  │   Ad     │  │ Memberships   │        │
+│  │ Planner  │  │ Manager  │  │ & Courses     │        │
+│  └──────────┘  └──────────┘  └───────────────┘        │
+│                                                        │
+│  ┌──────────┐  ┌──────────┐  ┌───────────────┐        │
+│  │ Unified  │  │ Reports  │  │   Payments    │        │
+│  │  Inbox   │  │Analytics │  │ Stripe/PayPal │        │
+│  └──────────┘  └──────────┘  └───────────────┘        │
+│                                                        │
+│  ┌──────────┐  ┌──────────────────────────────┐        │
+│  │Community │  │  White-Label / SaaS Mode     │        │
+│  │ Forums   │  │  (Agencies)                  │        │
+│  └──────────┘  └──────────────────────────────┘        │
+└───────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -66,6 +80,10 @@ Most teams juggle multiple tools — and pay for each one separately:
 | Workflows | ✅ | ✅ | ✅ |
 | Calendar | ✅ | ✅ | ✅ |
 | Pipelines | ✅ | ✅ | ✅ |
+| Social Planner | ✅ | ✅ | ✅ |
+| Ad Manager (FB + Google) | ✅ | ✅ | ✅ |
+| Courses & Memberships | ✅ | ✅ | ✅ |
+| Communities | ✅ | ✅ | ✅ |
 | SMS (usage-based) | ✅ | ✅ | ✅ |
 | Sub-accounts | 3 | Unlimited | Unlimited |
 | White-label | ❌ | ✅ | ✅ |
@@ -84,12 +102,14 @@ When you log in, the **left sidebar** is your main navigation:
 4. **Contacts** — CRM & contact records
 5. **Opportunities** — Sales Pipelines
 6. **Payments** — Invoices & transactions
-7. **Marketing** — Email, SMS, Social Planner
+7. **Marketing** — Email, SMS, Social Planner, Ad Manager
 8. **Automation** — Workflows
 9. **Sites** — Funnels, Websites, Landing Pages
-10. **Reputation** — Review management
-11. **Reporting** — Reports & Analytics
-12. **Settings** — System configuration
+10. **Memberships** — Courses, Communities, Client Portal
+11. **Reputation** — Review management
+12. **Reporting** — Reports & Analytics
+13. **Advertising** — Facebook & Google Ads management
+14. **Settings** — System configuration
 
 ---
 
@@ -108,6 +128,12 @@ When you log in, the **left sidebar** is your main navigation:
 | **Tag** | A label attached to a contact for segmentation |
 | **Custom Field** | A user-defined data field on a contact record |
 | **Snapshot** | A pre-built template that imports an entire account configuration |
+| **Social Planner** | Tool for scheduling and publishing posts across social media platforms |
+| **Ad Manager** | Centralized dashboard for running Facebook & Google Ads |
+| **Membership** | Gated access to courses, content, or communities |
+| **Community** | Branded online forum for members to interact and share |
+| **Course** | An online learning module with lessons, quizzes, and certificates |
+| **ROAS** | Return on Ad Spend — revenue generated per dollar spent on ads |
 
 ---
 
@@ -121,8 +147,21 @@ When you log in, the **left sidebar** is your main navigation:
 │ • Facebook   │    │ • Workflow   │    │ • Appt.      │    │ • Nurture    │
 │   Ads        │    │   nurture    │    │   booking    │    │   emails     │
 │ • Google Ads │    │ • SMS/Email  │    │ • Proposals  │    │ • Upsell     │
-│ • Organic    │    │   follow-up  │    │ • Payments   │    │   campaigns  │
+│ • Social     │    │   follow-up  │    │ • Payments   │    │   campaigns  │
+│   Planner    │    │ • AI Chat &  │    │ • Invoices   │    │ • Membership │
+│ • Organic    │    │   Voice AI   │    │              │    │   & Courses  │
+│   Content    │    │              │    │              │    │ • Community  │
 └──────────────┘    └──────────────┘    └──────────────┘    └──────────────┘
+        │                                                          │
+        │                    GROW & SCALE                          │
+        │              ┌──────────────────┐                        │
+        └─────────────▶│ • Ad Manager     │◀───────────────────────┘
+                       │   (FB + Google)  │
+                       │ • Social Media   │
+                       │   Analytics      │
+                       │ • ROI Reporting  │
+                       │ • Retargeting    │
+                       └──────────────────┘
 ```
 
 ---
