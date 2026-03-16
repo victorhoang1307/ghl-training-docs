@@ -142,26 +142,20 @@ When you log in, the **left sidebar** is your main navigation:
 ```
   ATTRACT              CONVERT              CLOSE               DELIGHT
 ┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
-│ • Landing    │    │ • Auto-import│    │ • Pipeline   │    │ • Reputation │
-│   Pages      │───▶│   to CRM     │───▶│   tracking   │───▶│   Management │
-│ • Facebook   │    │ • Workflow   │    │ • Appt.      │    │ • Nurture    │
-│   Ads        │    │   nurture    │    │   booking    │    │   emails     │
-│ • Google Ads │    │ • SMS/Email  │    │ • Proposals  │    │ • Upsell     │
+│ • Funnels &  │    │ • Auto-import│    │ • Pipeline   │    │ • Reputation │
+│   Landing    │    │   to CRM     │    │   tracking   │    │   Management │
+│   Pages      │───▶│ • Workflow   │───▶│ • Appt.      │───▶│ • Nurture    │
+│ • Ad Manager │    │   nurture    │    │   booking    │    │   emails     │
+│   (FB + Ggl) │    │ • SMS/Email  │    │ • Proposals  │    │ • Upsell     │
 │ • Social     │    │   follow-up  │    │ • Payments   │    │   campaigns  │
 │   Planner    │    │ • AI Chat &  │    │ • Invoices   │    │ • Membership │
 │ • Organic    │    │   Voice AI   │    │              │    │   & Courses  │
 │   Content    │    │              │    │              │    │ • Community  │
 └──────────────┘    └──────────────┘    └──────────────┘    └──────────────┘
-        │                                                          │
-        │                    GROW & SCALE                          │
-        │              ┌──────────────────┐                        │
-        └─────────────▶│ • Ad Manager     │◀───────────────────────┘
-                       │   (FB + Google)  │
-                       │ • Social Media   │
-                       │   Analytics      │
-                       │ • ROI Reporting  │
-                       │ • Retargeting    │
-                       └──────────────────┘
+
+─ ─ ─ ─ ─ ─ ─ ─ SUPPORTING TOOLS (across all stages) ─ ─ ─ ─ ─ ─ ─ ─ ─
+  📊 Reporting & Analytics     🤖 AI Employees     🔄 Workflows
+  📱 Unified Inbox             🏷️ CRM & Tags        📅 Calendars
 ```
 
 ---
