@@ -1,7 +1,6 @@
 - **Welcome**
   - [Overview & Schedule](README.md)
   - [Operations Quick Start](Operations-Team-Training.md)
-  <!-- - [Management Action Plan](GHL-Action-Plan-CRM-and-Marketing.md) -->
 
 - **Detailed Modules**
   - [Module 1: Intro to GHL](01_Introduction-to-GHL.md)
