@@ -1,9 +1,7 @@
-# GoHighLevel (GHL) Training
+# SigninLink Internal Training - GoHighLevel (GHL)
 
-> The complete, step-by-step documentation for Sales, Marketing, and Operations.
+> The complete, step-by-step GHL training documentation for SigninLink Sales, Marketing, and Operations.
 
 - 📘 15 Comprehensive Modules
-- 🔧 Advanced Workflows & Action Plans
-- ✅ Hands-on Exercises
 
 [Start Reading Now](README.md)

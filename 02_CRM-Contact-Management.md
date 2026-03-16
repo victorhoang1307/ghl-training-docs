@@ -164,17 +164,6 @@ Perform operations on many contacts at once:
 
 ---
 
-## 📝 Module 2 Exercises
-
-1. **Create 5 Custom Fields** relevant to your business
-2. **Design a Tag taxonomy** with at least 4 categories (source, interest, status, segment)
-3. **Import 10 contacts** from a CSV and assign appropriate tags
-4. **Build 3 Smart Lists:**
-   - Hot leads (activity within last 7 days)
-   - Leads by industry
-   - Leads not yet contacted
-5. **Compare** a blank contact record vs. a fully enriched one — notice the difference in usability
-
----
 
 > ⏭️ **Next:** [Module 3 — Sales Pipelines & Opportunity Management](03_Sales-Pipelines.md)
+

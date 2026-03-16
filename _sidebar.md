@@ -14,7 +14,6 @@
   - [Module 9: Advanced Workflows](09_Advanced-Workflows.md)
   - [Module 10: AI Features](10_AI-Features.md)
   - [Module 11: Analytics & Reports](11_Reporting-Analytics.md)
-  - [Module 12: Hands-on Exercises](12_Hands-On-Exercises.md)
   - [Module 13: Social Media Planner](13_Social-Media-Management.md)
   - [Module 14: Ad Manager](14_Ad-Manager.md)
   - [Module 15: Memberships & Courses](15_Memberships-Courses.md)

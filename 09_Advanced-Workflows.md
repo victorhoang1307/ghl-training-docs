@@ -259,14 +259,6 @@ INTERNAL - Sales Notification - v1
 
 ---
 
-## 📝 Module 9 Exercises
-
-1. **Build a lead-qualification workflow** with If/Else branching (at least 3 branches)
-2. **Create a drip campaign** with a Goal that stops the sequence on conversion
-3. **Set up an outbound webhook** that sends data to a Google Sheet when a deal is won
-4. **Design a lead-scoring system** on paper — define point values for 5+ actions
-5. **Audit your existing workflows** — name them properly, add notes, deactivate unused ones
-
----
 
 > ⏭️ **Next:** [Module 10 — AI Features & AI Employees](10_AI-Features.md)
+

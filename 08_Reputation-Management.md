@@ -122,14 +122,6 @@ The dashboard shows:
 
 ---
 
-## 📝 Module 8 Exercises
-
-1. **Connect** your Google Business Profile to GHL
-2. **Create a Workflow** that auto-requests reviews after service completion
-3. **Write 3 response templates** — for 5-star, 3-star, and 1-star reviews
-4. **Set up the smart review funnel** (high rating → public review, low rating → private feedback)
-5. **Review your current reputation** — what's your average rating? How many reviews per month?
-
----
 
 > ⏭️ **Next:** [Module 9 — Advanced Workflows & Automation](09_Advanced-Workflows.md)
+

@@ -272,15 +272,6 @@ Trigger: New Community Member Joins
 
 ---
 
-## 📝 Module 15 Exercises
 
-1. **Create a mini-course** with 3 modules and at least 1 quiz
-2. **Set up a membership offer** with a monthly pricing plan connected to Stripe
-3. **Configure a drip schedule** — release Module 2 one week after enrollment
-4. **Create a community** with 3 channels (#introductions, #questions, #wins)
-5. **Build a workflow** that grants course access when payment is received and revokes access when subscription is canceled
-6. **Design a certificate** with your branding for course completion
+> 📖 **Return to:** [Table of Contents](README.md)
 
----
-
-> 📖 **Return to:** [Table of Contents](00_Table-of-Contents.md)

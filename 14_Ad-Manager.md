@@ -247,15 +247,6 @@ If you manage ads for clients:
 
 ---
 
-## 📝 Module 14 Exercises
-
-1. **Connect** your Facebook and/or Google Ads accounts to GHL
-2. **Create a Facebook Lead Ad** with a lead form that syncs to GHL CRM
-3. **Build a speed-to-lead workflow** that triggers within seconds of a lead form submission
-4. **Set up conversion tracking** on a GHL funnel for Google Ads
-5. **Generate an ad performance report** and calculate ROAS for one campaign
-6. **Create a Custom Audience** from your GHL CRM data for retargeting
-
----
 
 > ⏭️ **Next:** [Module 15 — Memberships, Courses & Communities](15_Memberships-Courses.md)
+

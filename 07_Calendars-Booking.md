@@ -153,14 +153,6 @@ GHL allows you to **charge at the time of booking** — great for paid consultat
 
 ---
 
-## 📝 Module 7 Exercises
-
-1. **Create a "Free Consultation" calendar** with 30-min slots, Mon–Fri, 9 AM – 5 PM
-2. **Sync** your Google or Outlook calendar
-3. **Build a complete appointment workflow:** confirmation → reminder → no-show handling
-4. **Embed** the calendar on a test landing page
-5. **Test the booking experience** — book an appointment as if you were a prospect
-
----
 
 > ⏭️ **Next:** [Module 8 — Reputation Management](08_Reputation-Management.md)
+

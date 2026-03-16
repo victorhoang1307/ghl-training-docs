@@ -10,23 +10,9 @@ GoHighLevel (GHL) is an **all-in-one platform** for businesses and agencies that
 
 ### The Problem Before GHL
 
-Most teams juggle multiple tools — and pay for each one separately:
-
-| Standalone Tool | Est. Cost/month | GHL Replacement |
-|-----------------|:--------------:|-----------------|
-| CRM (HubSpot, Salesforce) | $50 – $300 | ✅ Built-in CRM |
-| Email Marketing (Mailchimp) | $30 – $150 | ✅ Email Builder |
-| SMS Marketing (Twilio) | $20 – $100 | ✅ SMS Built-in |
-| Funnel Builder (ClickFunnels) | $97 – $297 | ✅ Funnel Builder |
-| Scheduling (Calendly) | $10 – $15 | ✅ Calendars |
-| Reviews (BirdEye) | $300+ | ✅ Reputation Mgmt |
-| Social Media (Hootsuite/Buffer) | $50 – $200 | ✅ Social Planner |
-| Ad Management (AdEspresso) | $50 – $500 | ✅ Ad Manager |
-| Courses (Kajabi/Teachable) | $69 – $299 | ✅ Course Builder |
-| Community (Skool/Circle) | $33 – $99 | ✅ Communities |
-| **Total** | **$700 – $2,300+** | **$97 – $497** |
 
 > 💡 **Key Benefit:** One login, one bill, and all your data flows seamlessly between modules — no more copy-pasting between apps.
+
 
 ---
 
@@ -70,29 +56,9 @@ Most teams juggle multiple tools — and pay for each one separately:
 
 ---
 
-## 1.3 GHL Pricing Plans
 
-| Feature | Starter ($97/mo) | Unlimited ($297/mo) | SaaS Pro ($497/mo) |
-|---------|:-----------------:|:-------------------:|:------------------:|
-| CRM & Contacts | Unlimited | Unlimited | Unlimited |
-| Funnels & Pages | ✅ | ✅ | ✅ |
-| Email Marketing | ✅ | ✅ | ✅ |
-| Workflows | ✅ | ✅ | ✅ |
-| Calendar | ✅ | ✅ | ✅ |
-| Pipelines | ✅ | ✅ | ✅ |
-| Social Planner | ✅ | ✅ | ✅ |
-| Ad Manager (FB + Google) | ✅ | ✅ | ✅ |
-| Courses & Memberships | ✅ | ✅ | ✅ |
-| Communities | ✅ | ✅ | ✅ |
-| SMS (usage-based) | ✅ | ✅ | ✅ |
-| Sub-accounts | 3 | Unlimited | Unlimited |
-| White-label | ❌ | ✅ | ✅ |
-| SaaS Mode | ❌ | ❌ | ✅ |
-| AI Employee | Add-on | Add-on | Included |
+## 1.3 Navigating the Dashboard
 
----
-
-## 1.4 Navigating the Dashboard
 
 When you log in, the **left sidebar** is your main navigation:
 
@@ -158,15 +124,6 @@ When you log in, the **left sidebar** is your main navigation:
   📱 Unified Inbox             🏷️ CRM & Tags        📅 Calendars
 ```
 
----
-
-## 📝 Module 1 Exercises
-
-1. **Log in** to the GHL account provided to you
-2. **Explore** the Dashboard — click through every sidebar item
-3. **Write down** the 3 features you find most relevant to your current role
-4. **Group discussion:** Compare the tools you use today against GHL — pros/cons?
-
----
 
 > ⏭️ **Next:** [Module 2 — CRM & Contact Management](02_CRM-Contact-Management.md)
+

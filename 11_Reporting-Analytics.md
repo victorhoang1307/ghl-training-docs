@@ -192,14 +192,6 @@ Example:
 
 ---
 
-## 📝 Module 11 Exercises
 
-1. **Build a custom dashboard** with 4 widgets relevant to your role
-2. **Calculate ROI** for one marketing channel using real or hypothetical data
-3. **Identify your top 3 lead sources** using the Lead Source Report
-4. **Create a weekly reporting template** — which 5 metrics will you review every Monday?
-5. **Find one bottleneck** in your pipeline using the Stage Conversion report and propose a fix
+> ⏭️ **Next:** [Module 13 — Social Media Management](13_Social-Media-Management.md)
 
----
-
-> ⏭️ **Next:** [Module 12 — Hands-on Exercises & Scenarios](12_Hands-On-Exercises.md)

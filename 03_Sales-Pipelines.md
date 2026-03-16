@@ -187,21 +187,6 @@ Action 3: If > 7 days still stale → send SMS reminder
 
 ---
 
-## 📝 Module 3 Exercises
-
-1. **Create a Pipeline** that matches your sales process (5–7 stages)
-2. **Add 5 Opportunities** with realistic values and close dates
-3. **Drag at least 2 deals** between stages
-4. **Design a Workflow** that auto-creates an opportunity when a lead arrives
-5. **Calculate** your Total Pipeline Value and Weighted Pipeline Value
-
-### Practice Scenario
-> You receive 10 new leads from Facebook Ads for a web design service.
-> - Create contact records for all 10
-> - Add them to your "New Business" pipeline
-> - Move 3 to "Contacted," 2 to "Discovery Call," leave 5 at "New Lead"
-> - Calculate total and weighted pipeline value
-
----
 
 > ⏭️ **Next:** [Module 4 — Marketing Automation & Workflows](04_Marketing-Automation.md)
+

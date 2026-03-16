@@ -175,14 +175,6 @@ You can also save your own pages as templates for reuse, or install **Snapshots*
 
 ---
 
-## 📝 Module 5 Exercises
-
-1. **Build a lead-generation funnel** with 2 steps: Opt-in + Thank You
-2. **Design the opt-in page** with a headline, benefits, image, and a 3-field form
-3. **Connect the form** to a workflow that sends a welcome email and adds a tag
-4. **Set up a custom domain** for your funnel
-5. **Create an A/B test** — try two different headlines and run for 48 hours
-
----
 
 > ⏭️ **Next:** [Module 6 — Email & SMS Marketing](06_Email-SMS-Marketing.md)
+

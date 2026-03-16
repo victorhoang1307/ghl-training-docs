@@ -219,14 +219,6 @@ The quality of your AI depends on the quality of your **Knowledge Base**:
 
 ---
 
-## 📝 Module 10 Exercises
-
-1. **Draft a Knowledge Base** — write 15 Q&A entries for your business
-2. **Configure Conversation AI** in Suggestive mode on one channel
-3. **Create a Voice AI greeting** and qualifying question script
-4. **Test the AI** — send 10 different questions and evaluate the responses
-5. **Design an AI-assisted workflow** that classifies leads automatically
-
----
 
 > ⏭️ **Next:** [Module 11 — Reporting & Analytics](11_Reporting-Analytics.md)
+

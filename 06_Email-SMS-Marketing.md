@@ -203,14 +203,6 @@ Trigger: New Lead (Form Submitted)
 
 ---
 
-## 📝 Module 6 Exercises
-
-1. **Design a broadcast email** for an upcoming promotion — include subject line, body, and CTA
-2. **Create 3 SMS templates** for: appointment reminder, follow-up, and post-purchase
-3. **Build a multi-channel workflow** that combines email and SMS over 7 days
-4. **Send a test email** to yourself and verify it renders correctly on mobile
-5. **Set up email domain authentication** (SPF, DKIM) for your sending domain
-
----
 
 > ⏭️ **Next:** [Module 7 — Calendars & Appointment Booking](07_Calendars-Booking.md)
+

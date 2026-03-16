@@ -203,14 +203,6 @@ Trigger: Appointment Booked
 
 ---
 
-## 📝 Module 4 Exercises
-
-1. **Design a 5-email Welcome Sequence** for your product or service (write subject lines + outlines)
-2. **Write content** for 3 lead-nurture emails
-3. **Sketch a flowchart** for a re-engagement workflow
-4. **Build an Appointment Reminder workflow** in GHL
-5. **List 5 triggers** most important for your business and explain why
-
----
 
 > ⏭️ **Next:** [Module 5 — Funnels & Landing Pages](05_Funnels-Landing-Pages.md)
+

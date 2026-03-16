@@ -199,14 +199,6 @@ If/Else: Keyword detection
 
 ---
 
-## 📝 Module 13 Exercises
-
-1. **Connect** at least 2 social media accounts to GHL Social Planner
-2. **Create and schedule** 5 posts across different platforms for the upcoming week
-3. **Use AI** to generate 3 social media captions and compare them to your manual efforts
-4. **Set up a content category queue** with at least 3 categories
-5. **Review analytics** for your last 7 days of posts — which post performed best and why?
-
----
 
 > ⏭️ **Next:** [Module 14 — Ad Manager: Facebook & Google Ads](14_Ad-Manager.md)
+
