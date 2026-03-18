@@ -328,18 +328,18 @@ Click any opportunity card to see:
 
 ## 4.1 Types of Emails in GHL
 
-| Type | Trigger | Use Case |
-|------|---------|----------|
-| **Broadcast** | Manually sent to a list | Announcements, promos, newsletters |
-| **Workflow Email** | Auto-sent by a workflow trigger | Welcome series, follow-ups |
-| **1-to-1** | Sent from Conversations tab | Personal replies |
+| Type | How it works | Use Case |
+|------|-------------|----------|
+| **Email Campaign** | One-time send to a list or Smart List | Announcements, promos, newsletters |
+| **Workflow Campaign** | Triggered automatically within a Workflow | Welcome series, drip sequences, follow-ups |
+| **Bulk Action Campaign** | Quick send to selected contacts via Bulk Actions | One-off messages to a hand-picked group |
+| **1-to-1 Email** | Manual send from the Conversations tab | Personal replies, individual follow-ups |
 
-## 4.2 Creating a Broadcast Email
+## 4.2 Creating an Email Campaign
 
-1. Go to **Marketing** → **Emails** → **"+ Create Email Campaign"**
-2. **Name** the campaign
+1. Go to **Marketing** → **Email Marketing** → **Campaigns**
+2. Click **"+ New"** → choose a template or start from scratch
 3. **Design** the email:
-   - Start from a **template** or blank
    - Use the **drag-and-drop builder**:
      - Header (logo, brand colors)
      - Text blocks (short paragraphs, 2-3 lines max)
@@ -349,13 +349,12 @@ Click any opportunity card to see:
 4. **Personalize** with merge fields:
    - `{{contact.first_name}}` → "Hi Sarah"
    - `{{contact.company_name}}` → "at Acme Corp"
-5. **Select recipients:**
-   - A **Smart List** (recommended)
-   - Contacts with a specific **Tag**
-   - All contacts (use sparingly)
-6. **Set send time:**
-   - Immediately
-   - Scheduled (specific date + time)
+5. Click **Send or Schedule** and configure:
+   - **Sender Name** and **Sender Email**
+   - **Subject Line**
+   - **Recipients** — a **Smart List** (recommended), contacts with a specific **Tag**, or all contacts (use sparingly)
+   - **Additional Settings** — Link Tracking, UTM Tracking, Tags
+6. Choose delivery: **Send Now** (immediate) or **Schedule** (future date/time)
 7. **Preview & Test** — send to yourself first!
 8. Click **Send** or **Schedule**
 
@@ -425,10 +424,10 @@ AFTER SENDING:
 ```
 
 ### 📝 Email Exercises
-1. Create a broadcast email using a template
+1. Create an email campaign using a template
 2. Write 3 subject lines for the same email and pick the best
 3. Send a test email to yourself — check desktop + mobile rendering
-4. Send a broadcast to a Smart List of 10+ contacts
+4. Send an email campaign to a Smart List of 10+ contacts
 5. Check the campaign report 24 hours later
 
 ---

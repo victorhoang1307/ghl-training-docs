@@ -25,13 +25,14 @@ GHL provides a **drag-and-drop email builder** with:
 - Mobile-responsive preview
 - Dynamic content with merge fields
 
-### 6.2.2 Types of Emails
+### 6.2.2 Types of Emails in GHL
 
 | Type | Description | When to use |
 |------|------------|-------------|
-| **Broadcast** | One-time send to a list or Smart List | Announcements, promotions |
-| **Workflow Email** | Triggered by an event (auto-sent) | Welcome series, follow-ups |
-| **Template** | Reusable design saved for later | Standardize branding |
+| **Email Campaign** | One-time send to a list or Smart List (under **Marketing → Email Marketing → Campaigns**) | Newsletters, announcements, promotions |
+| **Workflow Campaign** | Triggered automatically within a Workflow | Welcome series, drip sequences, follow-ups |
+| **Bulk Action Campaign** | Quick send to selected contacts via Bulk Actions | One-off messages to a hand-picked group |
+| **1-to-1 Email** | Manual send from the **Conversations** tab | Personal replies, individual follow-ups |
 
 ### 6.2.3 Writing Effective Emails
 
@@ -70,18 +71,56 @@ GHL provides a **drag-and-drop email builder** with:
 └─────────────────────────────────┘
 ```
 
-### 6.2.4 Sending a Broadcast Email
+### 6.2.4 Sending Emails — All Four Methods
 
-1. Go to **Marketing** → **Emails** → **"+ Create Email"**
-2. Choose a template or start from scratch
-3. Design the email content
-4. Select recipients:
-   - All contacts
-   - A specific **Smart List**
-   - Contacts with specific **Tags**
-5. Set **send time** (immediate or scheduled)
-6. **Preview & Test** — send a test email to yourself first
-7. Click **Send** or **Schedule**
+#### A. Email Campaign (one-time send)
+
+1. Go to **Marketing** → **Email Marketing** → **Campaigns**
+2. Make sure you're on the **Email Campaigns** tab (selected by default)
+3. Click **"+ New"** → choose a template or start from scratch
+4. Design the email content using the drag-and-drop builder
+5. Click **Send or Schedule** and configure:
+   - **Sender Name** and **Sender Email**
+   - **Subject Line**
+   - **Recipients** (Smart List, Tags, or Lists)
+   - **Additional Settings** (Link Tracking, UTM Tracking, Tags)
+6. Choose delivery: **Send Now** (immediate) or **Schedule** (future date/time)
+7. **Preview & Test** — send a test email to yourself first
+8. Click **Send** or **Schedule**
+
+> 💡 **Tip:** After sending, you can **Resend to Unopened** — GHL lets you automatically re-send the same campaign to contacts who didn't open the first one.
+
+#### B. Workflow Campaign (automated trigger)
+
+1. Go to **Automation** → **Workflows**
+2. Create or open a workflow
+3. Set a **Trigger** (e.g., Form Submitted, Tag Added, Appointment Booked)
+4. Add an **Email** action step in the workflow
+5. Choose an existing email template or build one inline
+6. Configure timing with **Wait** steps between emails for drip sequences
+7. **Publish** the workflow — emails will send automatically when the trigger fires
+
+> 💡 **Tip:** Workflow campaigns appear on the **Workflow Campaigns** tab under Email Marketing so you can track their performance alongside regular campaigns.
+
+#### C. Bulk Action Campaign (quick ad-hoc send)
+
+1. Go to **Contacts** or open a **Smart List**
+2. Select the contacts you want to email (use checkboxes)
+3. Click **Bulk Actions** → **Send Email**
+4. Choose an email template or compose a message
+5. Send immediately or enable **Drip Mode** to stagger delivery and improve deliverability
+
+> ⚠️ **Note:** Bulk Action campaigns are best for small, targeted sends. For larger lists, use an Email Campaign for better tracking and analytics.
+
+#### D. 1-to-1 Email (personal send)
+
+1. Open **Conversations** in the sidebar
+2. Select or search for a contact
+3. Choose the **Email** channel
+4. Compose your message (you can use templates)
+5. Click **Send**
+
+> 💡 **Tip:** 1-to-1 emails are ideal for personal follow-ups and individual responses. They appear in the contact's conversation history for full context.
 
 ### 6.2.5 Email Metrics to Track
 

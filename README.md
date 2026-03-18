@@ -5,6 +5,7 @@
 
 > **Version:** 1.0 | **Updated:** March 2026  
 > **Audience:** Sales Reps, Marketing Specialists, and Business Managers
+> **Link:** https://victorhoang1307.github.io/ghl-training-docs/
 
 ---
 
