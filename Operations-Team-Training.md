@@ -358,45 +358,7 @@ Click any opportunity card to see:
 7. **Preview & Test** — send to yourself first!
 8. Click **Send** or **Schedule**
 
-## 4.3 Writing Effective Emails
-
-### Subject Line Rules
-| ✅ Do | ❌ Don't |
-|-------|---------|
-| Keep under 50 characters | Write novels in the subject |
-| Create curiosity | Use ALL CAPS |
-| Personalize: "{{first_name}}, quick question" | Use spam words: FREE!!! CLICK NOW! |
-| A/B test 2 versions | Use the same subject every time |
-
-### Email Structure
-
-```
-┌──────────────────────────────┐
-│ HEADER: Logo + brand colors  │
-├──────────────────────────────┤
-│ Hi {{first_name}},           │
-│                              │
-│ [One compelling opening line │
-│  that hooks them]            │
-│                              │
-│ [2-3 short paragraphs with  │
-│  the main value/message]    │
-│                              │
-│ [Optional: bullet points]    │
-│                              │
-│ ┌────────────────────────┐   │
-│ │   [ CTA BUTTON ]       │   │
-│ │   "Book Your Call"      │   │
-│ └────────────────────────┘   │
-│                              │
-│ Best regards,                │
-│ [Name + Signature]           │
-├──────────────────────────────┤
-│ FOOTER: Unsubscribe | Address│
-└──────────────────────────────┘
-```
-
-## 4.4 Email Metrics — What to Monitor
+## 4.3 Email Metrics — What to Monitor
 
 | Metric | Good Benchmark | If Low → Action |
 |--------|:--------------:|----------------|
@@ -405,30 +367,13 @@ Click any opportunity card to see:
 | **Bounce Rate** | < 2% | Remove invalid emails |
 | **Unsubscribe Rate** | < 0.5% | Reduce frequency, improve targeting |
 
-## 4.5 Email Operations Checklist
-
-```
-BEFORE SENDING:
-☐ Subject line is compelling and under 50 chars
-☐ Personalization fields are correct (test with preview)
-☐ CTA button works and links to correct page
-☐ Unsubscribe link is present (legally required)
-☐ Mobile preview looks good
-☐ Test email sent to yourself
-
-AFTER SENDING:
-☐ Check delivery rate within 1 hour
-☐ Monitor open rate after 24 hours
-☐ Review click rate after 48 hours
-☐ Respond to any replies in Conversations
-```
+> 📖 **Best Practices:** For email writing tips, subject line rules, email structure, and operations checklist, see [Best Practices — Email & SMS](Best-Practices-Email-SMS.md)
 
 ### 📝 Email Exercises
 1. Create an email campaign using a template
-2. Write 3 subject lines for the same email and pick the best
-3. Send a test email to yourself — check desktop + mobile rendering
-4. Send an email campaign to a Smart List of 10+ contacts
-5. Check the campaign report 24 hours later
+2. Send a test email to yourself — check desktop + mobile rendering
+3. Send an email campaign to a Smart List of 10+ contacts
+4. Check the campaign report 24 hours later
 
 ---
 
@@ -456,46 +401,14 @@ AFTER SENDING:
 
 1. Go to **Marketing** → **Bulk Actions** or use a workflow
 2. Select recipients (Smart List or Tag)
-3. Write the message:
+3. Write the message and click **Send**
 
-### SMS Templates for Operations
-
-**Appointment Reminder:**
-> Hi {{contact.first_name}}, reminder: you have an appointment with [Company] tomorrow at {{appointment.time}}. Reply YES to confirm or call us at [Phone].
-
-**Follow-up After No Reply:**
-> Hi {{contact.first_name}}, we tried reaching you about [service]. Still interested? Reply YES and we'll get back to you shortly.
-
-**Post-Service Thank You:**
-> Thanks for choosing [Company], {{contact.first_name}}! We hope you loved the experience. Reply with any feedback — we'd love to hear from you.
-
-**Review Request:**
-> Hi {{contact.first_name}}, it was great working with you! Would you mind leaving us a quick review? [Google Review Link] Thank you! ⭐
-
-## 5.4 SMS Best Practices
-
-| ✅ Do | ❌ Don't |
-|-------|---------|
-| Keep under 160 characters | Send more than 3 SMS/week |
-| Include your business name | Use ALL CAPS |
-| Personalize: "Hi {{first_name}}" | Send late at night or early morning |
-| Include a clear CTA | Forget opt-out: "Reply STOP to unsubscribe" |
-| Send during business hours | Send links without context |
-
-## 5.5 Compliance Essentials
-
-- ✅ **Opt-in required** — contacts must consent before you send
-- ✅ **Include business ID** — they need to know who's texting
-- ✅ **Offer opt-out** — always include "Reply STOP to unsubscribe"
-- ✅ **Respect opt-outs** — removing contacts who reply STOP is automatic in GHL
-
-> ⚠️ **SMS costs money** — each segment (160 chars) has a per-message cost. Keep messages concise.
+> 📖 **Best Practices:** For SMS writing tips, templates, and compliance guidelines, see [Best Practices — Email & SMS](Best-Practices-Email-SMS.md)
 
 ### 📝 SMS Exercises
 1. Send a 1-to-1 SMS from the Conversations tab
-2. Write 3 SMS templates (reminder, follow-up, review request)
-3. Send a test broadcast to a small list (5 contacts)
-4. Check delivery status and responses
+2. Send a test broadcast to a small list (5 contacts)
+3. Check delivery status and responses
 
 ---
 

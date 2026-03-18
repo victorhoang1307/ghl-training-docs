@@ -17,3 +17,6 @@
   - [Module 13: Social Media Planner](13_Social-Media-Management.md)
   - [Module 14: Ad Manager](14_Ad-Manager.md)
   - [Module 15: Memberships & Courses](15_Memberships-Courses.md)
+
+- **Resources**
+  - [Best Practices: Email & SMS](Best-Practices-Email-SMS.md)

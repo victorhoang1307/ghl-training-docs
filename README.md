@@ -46,26 +46,3 @@ Upon completing this training program, participants will be able to:
 9. **Manage** social media content and scheduling across all platforms
 10. **Run and measure** Facebook & Google Ads with full ROI tracking
 11. **Build** online courses, membership sites, and branded communities
-
----
-
-## ⏱️ Suggested Training Schedule
-
-| Day | Morning (9:00 - 12:00) | Afternoon (1:30 - 5:00) |
-|-----|------------------------|------------------------|
-| **Day 1** | Module 1: Introduction to GHL | Module 2: CRM & Contact Management |
-| **Day 2** | Module 3: Sales Pipelines | Module 4: Marketing Automation |
-| **Day 3** | Module 5: Funnels & Landing Pages | Module 6: Email & SMS Marketing |
-| **Day 4** | Module 7 + 8: Calendar & Reputation | Module 9: Advanced Workflows |
-| **Day 5** | Module 10 + 11: AI & Reporting | Module 12: Hands-on Exercises |
-| **Day 6** | Module 13 + 14: Social & Ads | Module 15: Memberships & Communities |
-
----
-
-## 📌 Document Conventions
-
-- 💡 **Tip:** Best practices and power-user advice
-- ⚠️ **Note:** Important things to watch out for
-- 🎯 **Objective:** Learning goal for each section
-- 📝 **Exercise:** Hands-on practice activity
-- 🔑 **Key Term:** Important terminology explained
